@@ -29,6 +29,7 @@ gem 'turbolinks'
 
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'dotenv-rails'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
